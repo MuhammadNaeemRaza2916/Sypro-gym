@@ -1,0 +1,597 @@
+@media screen and (max-width: 992px) {
+    #bannerAndNavbaar .navbaar {
+        width: 105rem;
+    }
+
+    #bannerAndNavbaar .left a {
+        font-size: 3.5rem;
+    }
+
+    #bannerAndNavbaar .center ul a {
+        font-size: 2.25rem;
+    }
+
+    #bannerAndNavbaar .right svg {
+        width: 17.5625rem;
+        height: 5.8125rem;
+        margin-top: -1.5rem;
+        margin-left: -5rem;
+    }
+
+    #bannerAndNavbaar .right a {
+        font-size: 2.25rem;
+        margin-left: -5rem;
+    }
+
+    #bannerAndNavbaar .banner {
+        width: 105rem;
+    }
+
+    #bannerAndNavbaar .banner .innerContainer h1 {
+        font-size: 5.5rem;
+        width: 42.875rem;
+    }
+
+    #bannerAndNavbaar .banner .innerContainer p {
+        width: 52.625rem;
+        font-size: 2.125rem;
+    }
+
+    #bannerAndNavbaar .banner .innerContainer .mainBtn svg {
+        width: 17.5625rem;
+        height: 5.8125rem;
+    }
+
+    #bannerAndNavbaar .banner .innerContainer .mainBtn {
+        margin-left: -35rem;
+        width: auto;
+    }
+
+    #bannerAndNavbaar .banner .innerContainer .mainBtn p {
+        font-size: 2.25rem;
+        padding-top: 2.8rem;
+    }
+
+    #secondSection {
+        height: 52rem;
+    }
+
+    #secondSection .innerContainer {
+        width: 105rem;
+    }
+
+    #secondSection .innerContainer h3 {
+        font-size: 4rem;
+    }
+
+    #secondSection .innerContainer .images .img1 .image-container {
+        width: 38.9375rem;
+        height: 26.6875rem;
+    }
+
+    #secondSection .innerContainer .images .img1 .image-container img {
+        width: 38.9375rem;
+        height: 26.6875rem;
+    }
+
+    #secondSection .innerContainer .images .img1 .text h4 {
+        font-size: 3.25rem;
+    }
+
+    #secondSection .innerContainer .images .img1 .text {
+        width: 38.9375rem;
+        gap: 1.09rem;
+    }
+
+    #secondSection .innerContainer .images .img1 .text p {
+        width: 30.375rem;
+        font-size: 1.3rem;
+    }
+
+    #secondSection .innerContainer .images .img2 {
+        width: 13.625rem;
+        height: 33rem;
+    }
+
+    #secondSection .innerContainer .images .img3 {
+        width: 13.625rem;
+        height: 33rem;
+    }
+
+    #secondSection .innerContainer .images .img4 {
+        width: 13.625rem;
+        height: 33rem;
+    }
+
+    #thirdSection {
+        height: 95rem;
+    }
+
+    #thirdSection .innerContainer h3 {
+        font-size: 4rem;
+    }
+
+    #thirdSection .innerContainer p {
+        width: 87rem;
+        font-size: 2.25rem;
+    }
+
+    #thirdSection .innerContainer .img {
+        width: 63rem;
+        height: 42.8125rem;
+    }
+
+    #thirdSection .innerContainer svg {
+        width: 65.25rem;
+        height: 18.9375rem;
+        top: -17.9rem;
+    }
+
+    #thirdSection .box1 {
+        width: 9rem;
+        height: 24.4375rem;
+        margin-top: 34rem;
+        right: 7.7rem;
+    }
+
+    #thirdSection .box2 {
+        width: 9rem;
+        height: 76.4375rem;
+        margin-top: 60rem;
+        right: 33.7rem;
+    }
+
+    #fourthSection {
+        height: 67rem;
+    }
+
+    #fourthSection .innerContainer {
+        width: 105rem;
+        height: 60rem;
+    }
+
+    #fourthSection .innerContainer h3 {
+        font-size: 4rem;
+    }
+
+    #fourthSection .innerContainer .content {
+        height: 45rem;
+    }
+
+    #fourthSection .innerContainer .content .card {
+        height: 100%;
+        width: 30rem;
+        /* background-color: #67250d; */
+    }
+
+    #fourthSection .innerContainer .content .card .img {
+        width: 28.75rem;
+        height: 20.125rem;
+        margin-left: .6rem;
+    }
+
+    #fourthSection .innerContainer .content .card>svg {
+        width: 29.9rem;
+        height: 7.375rem;
+        top: 28rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .top .left svg {
+        width: 1rem;
+        height: 1rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .top .left {
+        gap: 1rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .top .left p {
+        font-size: 1.8rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .top .right {
+        gap: 1rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .top .right svg {
+        width: 2.2625rem;
+        height: 2.2625rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .top .right p {
+        font-size: 1.8rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .heading p {
+        font-size: 1.8rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .heading .time {
+        gap: 1rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .heading .time svg {
+        width: 2.2625rem;
+        height: 2.2625rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .heading .time p {
+        font-size: 1.8rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent>p {
+        font-size: 1.8rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .classes {
+        gap: 1rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .classes svg {
+        width: 1rem;
+        height: 1rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .classes p {
+        font-size: 1.8rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .difficulty {
+        gap: 1rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .difficulty svg {
+        width: 1rem;
+        height: 1rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .difficulty p {
+        font-size: 1.8rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .buttons .btn1 svg {
+        width: 10.75rem;
+        height: 4.8125rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .buttons .btn1 p {
+        padding-top: 1rem;
+        font-size: 1.525rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .buttons .btn2 svg {
+        width: 14.875rem;
+        height: 4.8125rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .buttons .btn2 p {
+        padding-top: 1rem;
+        font-size: 1.525rem;
+    }
+
+    #fourthSection .innerContainer .mainBtn svg {
+        width: 17.5625rem;
+        height: 3.8125rem;
+    }
+
+    #fourthSection .innerContainer .mainBtn p {
+        font-size: 2.25rem;
+        padding-top: 0.8rem;
+    }
+
+    #fifthSection {
+        height: 60rem;
+    }
+
+    #fifthSection .innerContainer {
+        width: 105rem;
+        height: 48rem;
+    }
+
+    #fifthSection .innerContainer h3 {
+        font-size: 4rem;
+    }
+
+    #fifthSection .innerContainer .instructors .instructor1 .img {
+        width: 20.8125rem;
+        height: 28rem;
+    }
+
+    #fifthSection .innerContainer .instructors .instructor1 h5 {
+        font-size: 2.5rem;
+    }
+
+    #fifthSection .innerContainer .instructors .instructor1 p {
+        font-size: 1.8rem;
+    }
+
+    #fifthSection .innerContainer .instructors .instructor2 .img {
+        width: 20.8125rem;
+        height: 28rem;
+    }
+
+    #fifthSection .innerContainer .instructors .instructor2 h5 {
+        font-size: 2.5rem;
+    }
+
+    #fifthSection .innerContainer .instructors .instructor2 p {
+        font-size: 1.8rem;
+    }
+
+    #fifthSection .innerContainer .instructors .instructor3 .img {
+        width: 20.8125rem;
+        height: 28rem;
+    }
+
+    #fifthSection .innerContainer .instructors .instructor3 h5 {
+        font-size: 2.5rem;
+    }
+
+    #fifthSection .innerContainer .instructors .instructor3 p {
+        font-size: 1.8rem;
+    }
+
+    #fifthSection .innerContainer .instructors .instructor4 .img {
+        width: 20.8125rem;
+        height: 28rem;
+    }
+
+    #fifthSection .innerContainer .instructors .instructor4 h5 {
+        font-size: 2.5rem;
+    }
+
+    #fifthSection .innerContainer .instructors .instructor4 p {
+        font-size: 1.8rem;
+    }
+
+    #fifthSection .box1 {
+        width: 8rem;
+    }
+
+    #fifthSection .box2 {
+        width: 8rem;
+        height: 74.75rem;
+        left: 32.5rem;
+        margin-top: 32rem;
+    }
+
+    #sixthSection {
+        height: 40rem;
+    }
+
+    #sixthSection .innerContainer {
+        width: 105rem;
+    }
+
+    #sixthSection .innerContainer .left h3 {
+        width: 47.125rem;
+        font-size: 4rem;
+    }
+
+    #sixthSection .innerContainer .left p {
+        color: #FFF;
+        font-size: 1.8rem;
+    }
+
+    #sixthSection .innerContainer .left .img img:nth-child(1) {
+        width: 15.125rem;
+        height: 4.75rem;
+    }
+
+    #sixthSection .innerContainer .left .img img:nth-child(2) {
+        width: 15.625rem;
+        height: 4.75rem;
+    }
+
+    #sixthSection .innerContainer .right img:nth-child(1) {
+        width: 17.25rem;
+        height: 25rem;
+    }
+
+    #sixthSection .innerContainer .right img:nth-child(2) {
+        width: 22rem;
+        height: 33rem;
+    }
+
+    #sixthSection .innerContainer .right img:nth-child(3) {
+        width: 17.25rem;
+        height: 25rem;
+    }
+
+    #videoSection {
+        height: 50rem;
+    }
+
+    #videoSection .innerContainer {
+        width: 105rem;
+        height: 45rem;
+    }
+
+    #videoSection .video-player {
+        width: 105rem;
+        height: 45rem;
+    }
+
+    #videoSection .video-player iframe {
+        width: 105rem;
+        height: 45rem;
+    }
+
+    #feedBack {
+        height: 60rem;
+    }
+
+    #feedBack .innerContainer {
+        width: 105rem;
+        height: 50rem;
+    }
+
+    #feedBack .innerContainer h3 {
+        font-size: 4rem;
+    }
+
+    #feedBack .innerContainer .swiper {
+        width: 105rem;
+        height: 40rem;
+        /* background-color: red; */
+    }
+
+    .swiper .swiper-wrapper .swiper-slide {
+        /* background-color: red; */
+        height: 32.75rem;
+        width: 30rem !important;
+    }
+
+    #feedBack .innerContainer .swiper .swiper-wrapper .swiper-slide .line {
+        height: 0.925rem;
+    }
+
+    #feedBack .innerContainer .swiper .swiper-wrapper .swiper-slide .content {
+        height: 26rem;
+    }
+
+    #feedBack .innerContainer .swiper .swiper-wrapper .swiper-slide .content .svg svg {
+        width: 2.575rem;
+        height: 2.575rem;
+    }
+
+    #feedBack .innerContainer .swiper .swiper-wrapper .swiper-slide .content .profile img {
+        width: 5.75rem;
+        height: 5.75rem;
+    }
+
+    #feedBack .innerContainer .swiper .swiper-wrapper .swiper-slide .content .profile p {
+        font-size: 2rem;
+    }
+
+    #feedBack .innerContainer .swiper .swiper-wrapper .swiper-slide .content .profile {
+        width: 88%;
+    }
+
+    #feedBack .innerContainer .swiper .swiper-wrapper .swiper-slide2 .content .profile {
+        width: 98%;
+    }
+
+    #feedBack .innerContainer .swiper .swiper-wrapper .swiper-slide3 .content .profile {
+        width: 77%;
+    }
+
+    #feedBack .innerContainer .swiper .swiper-wrapper .swiper-slide .content p {
+        font-size: 2.1rem;
+    }
+
+    #questions .innerContainer {
+        width: 105rem;
+    }
+
+    #questions .innerContainer .contents {
+        /* background-color: red; */
+        width: 105rem;
+    }
+
+    .mySwiper .swiper-pagination-bullet {
+        width: 2.25rem;
+        height: 1.625rem;
+    }
+
+    .mySwiper .swiper-pagination-bullet-active {
+        width: 5.5rem;
+    }
+
+    #questions .innerContainer h3 {
+        font-size: 4rem;
+    }
+
+    #questions .innerContainer .contents .top .question .head p {
+        font-size: 2.5rem;
+    }
+
+    #questions .innerContainer .contents .top .question .svg svg {
+        width: 105rem;
+        height: 15.2rem;
+    }
+
+    #questions .innerContainer .contents .top .question .line {
+        width: 105rem;
+        height: 0.2025rem;
+    }
+
+    #questions .innerContainer .contents .bottom>svg {
+        width: 105rem;
+        height: 15rem;
+    }
+
+    #questions .innerContainer .contents .bottom .content {
+        width: 87.625rem;
+        left: 12rem;
+        height: 9.0625rem;
+        margin-top: -12rem;
+    }
+
+    #questions .innerContainer .contents .top .question .svg p {
+        width: 96.625rem;
+        font-size: 1.625rem;
+        margin-top: -13rem;
+        left: 8rem;
+    }
+
+    #questions .innerContainer .contents .top .question .head svg {
+        width: 3.5rem;
+        height: 3.5rem;
+    }
+
+    #questions .innerContainer .contents .bottom .content .left h3 {
+        font-size: 3rem;
+    }
+
+    #questions .innerContainer .contents .bottom .content .left p {
+        width: 57.8125rem;
+        font-size: 1.8rem;
+    }
+
+    #questions .innerContainer .contents .bottom .content .right svg {
+        width: 23.78125rem;
+        height: 5.125rem;
+        flex-shrink: 0;
+    }
+
+    #questions .innerContainer .contents .bottom .content .right p {
+        font-size: 2rem;
+        margin-top: -4.3rem;
+        margin-left: 2.6rem;
+    }
+
+    #footer {
+        height: 35.6875rem;
+    }
+
+    #footer .innerContainer {
+        width: 105rem;
+        height: 32rem;
+    }
+
+    #footer .innerContainer h3 {
+        font-size: 4rem;
+    }
+
+    #footer .innerContainer .icons {
+        display: flex;
+        gap: 1.94rem;
+    }
+
+    #footer .innerContainer>p {
+        width: 98.75rem;
+        font-size: 2.25rem;
+    }
+
+    #footer .innerContainer .icons svg {
+        width: 4.1875rem;
+        height: 4.1875rem;
+        cursor: pointer;
+    }
+
+    #footer .innerContainer .line {
+        width: 105rem;
+        height: 0.1925rem;
+    }
+}

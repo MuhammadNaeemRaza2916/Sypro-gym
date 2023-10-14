@@ -1,0 +1,742 @@
+@media screen and (max-width: 576px) {
+    #bannerAndNavbaar .navbaar {
+        height: 12rem;
+    }
+
+    #bannerAndNavbaar .left a {
+        font-size: 8.5rem;
+    }
+
+    #bannerAndNavbaar .right svg {
+        display: none;
+    }
+
+    #bannerAndNavbaar .right a {
+        display: none;
+    }
+
+    #bannerAndNavbaar .right i {
+        display: block;
+        color: #FF4300;
+        font-size: 8rem;
+        margin-top: -3rem;
+    }
+
+    #bannerAndNavbaar .center {
+        position: absolute;
+        top: 0rem;
+        left: -120rem;
+        z-index: 100;
+        transition: left 0.3s;
+    }
+
+    #bannerAndNavbaar .center i {
+        display: block;
+        color: #fff;
+        font-size: 5rem;
+        position: absolute;
+        right: 5rem;
+        top: 5rem;
+    }
+
+    #bannerAndNavbaar .center ul {
+        background-color: #000;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        width: 100vw;
+        height: 100vh;
+        gap: 20rem;
+        padding-top: 25rem;
+    }
+
+    #bannerAndNavbaar .center ul a {
+        font-size: 7rem;
+    }
+
+    #bannerAndNavbaar .center ul .toogleMenuBtn {
+        width: auto;
+        height: auto;
+        display: flex;
+        justify-content: center;
+    }
+
+    #bannerAndNavbaar .center ul .toogleMenuBtn svg {
+        position: absolute;
+        width: 36.5625rem;
+        height: 8.8125rem;
+        /* margin-top: -1.5rem; */
+        /* margin-left: -5rem; */
+        flex-shrink: 0;
+    }
+
+    #bannerAndNavbaar .center ul .toogleMenuBtn a {
+        /* position: absolute; */
+        z-index: 10;
+        align-self: center;
+        padding-top: 1rem;
+        color: #FFF;
+        font-family: Outfit;
+        font-size: 5rem;
+        /* margin-left: -5rem; */
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        cursor: pointer;
+        text-decoration: none;
+    }
+
+    #bannerAndNavbaar .center ul .toogleMenuBtn a:hover {
+        color: #000;
+    }
+
+    #bannerAndNavbaar {
+        background-image: url(../IMG/33cfe88c6aeff5201578e141512f3684.jpeg);
+        background-repeat: no-repeat;
+        background-size: 206%;
+        background-position-x: -94rem;
+        width: 100%;
+        height: 152.6875rem;
+        flex-shrink: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #bannerAndNavbaar .banner .innerContainer {
+        margin-top: 105rem;
+    }
+
+    #bannerAndNavbaar .banner .innerContainer h1 {
+        font-size: 12.5rem;
+        width: 95.875rem;
+    }
+
+    #bannerAndNavbaar .banner .innerContainer h1 span {
+        color: transparent;
+        -webkit-text-stroke: 0.325rem #FF4300;
+    }
+
+    #bannerAndNavbaar .banner .innerContainer p {
+        width: 96.625rem;
+        font-size: 5rem;
+    }
+
+    #bannerAndNavbaar .banner .innerContainer .mainBtn {
+        width: auto;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        margin-top: 5rem;
+        margin-left: -60rem;
+    }
+
+    #bannerAndNavbaar .banner .innerContainer .mainBtn svg {
+        position: absolute;
+        width: 36.5625rem;
+        height: 8.8125rem;
+        /* margin-top: -1.5rem; */
+        flex-shrink: 0;
+    }
+
+    #bannerAndNavbaar .banner .innerContainer .mainBtn p {
+        /* position: absolute; */
+        z-index: 10;
+        align-self: center;
+        padding-top: 1.5rem;
+        color: #FFF;
+        font-family: Outfit;
+        font-size: 4.5rem;
+        /* margin-left: -5rem; */
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        cursor: pointer;
+        text-decoration: none;
+    }
+
+    #secondSection {
+        height: 250rem;
+    }
+
+    #secondSection .innerContainer {
+        height: 220rem;
+    }
+
+    #secondSection .innerContainer h3 {
+        font-size: 10rem;
+        padding-top: 10rem;
+        padding-bottom: 5rem;
+    }
+
+    #secondSection .innerContainer .images {
+        height: auto;
+        width: 100%;
+        /* background-color: rebeccapurple; */
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        gap: 0rem;
+    }
+
+    #secondSection .innerContainer .images .img1 {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        /* background-color: red; */
+        width: 100%;
+    }
+
+    #secondSection .innerContainer .images .img1 .image-container {
+        width: 104.9375rem;
+        height: 65.6875rem;
+    }
+
+    #secondSection .innerContainer .images .img1 .image-container img {
+        width: 104.9375rem;
+        height: 65.6875rem;
+        border-top-left-radius: 30rem;
+        border: 0.725rem solid var(--Linear, #FF4300);
+    }
+
+    #secondSection .innerContainer .images .img1 .text {
+        width: 104.9375rem;
+        gap: 2.09rem;
+        margin-top: 5rem;
+        margin-bottom: 12rem;
+    }
+
+    #secondSection .innerContainer .images .img1 .text h4 {
+        font-size: 11.5rem;
+        padding-top: 2.5rem;
+    }
+
+    #secondSection .innerContainer .images .img1 .text p {
+        width: 75.375rem;
+        font-size: 4.5rem;
+    }
+
+    #secondSection .innerContainer .images .img2 {
+        width: 32.625rem;
+        height: 80rem;
+        background-position: -5.19rem 0rem;
+    }
+
+    #secondSection .innerContainer .images .img2 p {
+        font-size: 5rem;
+    }
+
+    #secondSection .innerContainer .images .img3 {
+        width: 32.625rem;
+        height: 80rem;
+        background-position: -13.19rem 0rem;
+    }
+
+    #secondSection .innerContainer .images .img3 p {
+        font-size: 5rem;
+    }
+
+    #secondSection .innerContainer .images .img4 {
+        width: 32.625rem;
+        height: 80rem;
+    }
+
+    #secondSection .innerContainer .images .img4 p {
+        font-size: 5rem;
+    }
+
+    #thirdSection {
+        height: 150rem;
+    }
+
+    #thirdSection .innerContainer h3 {
+        font-size: 10rem;
+    }
+
+    #thirdSection .innerContainer p {
+        width: 105rem;
+        font-size: 4.5rem;
+    }
+
+    #thirdSection .innerContainer svg {
+        width: 105.25rem;
+        height: 30.9375rem;
+        top: -27.9rem;
+    }
+
+    #thirdSection .innerContainer .img {
+        width: 100rem;
+        height: 67.8125rem;
+        margin-top: 15rem;
+    }
+
+    #fourthSection {
+        height: 480rem;
+    }
+
+    #fourthSection .innerContainer {
+        height: 480rem;
+        /* background-color: red; */
+    }
+
+    #fourthSection .innerContainer h3 {
+        font-size: 10rem;
+    }
+
+    #fourthSection .innerContainer .content {
+        height: 440rem;
+        /* background: cornflowerblue; */
+        flex-wrap: wrap;
+    }
+
+    #fourthSection .innerContainer .content .card {
+        height: auto;
+        width: 105rem;
+        /* background-color: #67250d; */
+    }
+
+    #fourthSection .innerContainer .content .card>svg {
+        width: 104.9rem;
+        height: 24.375rem;
+    }
+
+    #fourthSection .innerContainer .content .card1>svg {
+        top: 70rem;
+    }
+
+    #fourthSection .innerContainer .content .card2>svg {
+        top: 216.5rem;
+    }
+
+    #fourthSection .innerContainer .content .card3>svg {
+        top: 363.3rem;
+    }
+
+
+    #fourthSection .innerContainer .content .card .img {
+        width: 99.75rem;
+        height: 65.5rem;
+        margin-left: 2.5rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent {
+        /* background-color: red; */
+        margin-top: 6.56rem;
+        gap: 1.5rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .top .left {
+        gap: 2rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .top .left svg {
+        width: 2rem;
+        height: 2rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .top .left p {
+        font-size: 4.5rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .top .right {
+        gap: 2rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .top .right svg {
+        width: 4.2625rem;
+        height: 4.2625rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .top .right p {
+        font-size: 4.5rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .heading p {
+        font-size: 4.5rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .heading .time {
+        gap: 2rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .heading .time svg {
+        width: 4.2625rem;
+        height: 4.2625rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .heading .time p {
+        font-size: 4.5rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent>p {
+        font-size: 4.5rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .classes {
+        gap: 2rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .classes svg {
+        width: 2rem;
+        height: 2rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .classes p {
+        font-size: 4.5rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .difficulty {
+        gap: 2rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .difficulty svg {
+        width: 2rem;
+        height: 2rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .difficulty p {
+        font-size: 4.5rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .buttons .btn1 svg {
+        width: 31.5625rem;
+        height: 10.8125rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .buttons .btn1 p {
+        padding-top: 1.5rem;
+        font-size: 4.5rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .buttons .btn2 svg {
+        width: 46.5625rem;
+        height: 10.8125rem;
+    }
+
+    #fourthSection .innerContainer .content .card .textContent .buttons .btn2 p {
+        padding-top: 1.5rem;
+        font-size: 4.5rem;
+    }
+
+    #fourthSection .innerContainer .mainBtn {
+        width: auto;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        position: relative;
+        bottom: 15rem;
+    }
+
+    #fourthSection .innerContainer .mainBtn svg {
+        width: 39.5625rem;
+        height: 9.8125rem;
+    }
+
+    #fourthSection .innerContainer .mainBtn p {
+        font-size: 5.25rem;
+        padding-top: 1.5rem;
+    }
+
+    #fifthSection {
+        height: 700rem;
+    }
+
+    #fifthSection .innerContainer {
+        width: 105rem;
+        height: 680rem;
+    }
+
+    #fifthSection .innerContainer h3 {
+        font-size: 10rem;
+    }
+
+    #fifthSection .innerContainer .instructors {
+        flex-direction: column;
+        gap: 12rem;
+    }
+
+    #fifthSection .innerContainer .instructors .instructor1 .img {
+        width: 91.8125rem;
+        height: 128rem;
+    }
+
+    #fifthSection .innerContainer .instructors .instructor1 h5 {
+        font-size: 8.5rem;
+    }
+
+    #fifthSection .innerContainer .instructors .instructor1 p {
+        font-size: 5.8rem;
+    }
+
+    #fifthSection .innerContainer .instructors .instructor2 .img {
+        width: 91.8125rem;
+        height: 128rem;
+    }
+
+    #fifthSection .innerContainer .instructors .instructor2 h5 {
+        font-size: 8.5rem;
+    }
+
+    #fifthSection .innerContainer .instructors .instructor2 p {
+        font-size: 5.8rem;
+    }
+
+    #fifthSection .innerContainer .instructors .instructor3 .img {
+        width: 91.8125rem;
+        height: 128rem;
+        border: 0.925rem solid var(--Linear, #FF4300);
+    }
+
+    #fifthSection .innerContainer .instructors .instructor3 h5 {
+        font-size: 8.5rem;
+    }
+
+    #fifthSection .innerContainer .instructors .instructor3 p {
+        font-size: 5.8rem;
+    }
+
+    #fifthSection .innerContainer .instructors .instructor4 .img {
+        width: 91.8125rem;
+        height: 128rem;
+    }
+
+    #fifthSection .innerContainer .instructors .instructor4 h5 {
+        font-size: 8.5rem;
+    }
+
+    #fifthSection .innerContainer .instructors .instructor4 p {
+        font-size: 5.8rem;
+    }
+
+    #sixthSection {
+        height: 175rem;
+    }
+
+    #sixthSection .innerContainer {
+        width: 105rem;
+        height: 90%;
+        flex-direction: column;
+    }
+
+    #sixthSection .innerContainer .left {
+        align-self: flex-start;
+    }
+
+    #sixthSection .innerContainer .left h3 {
+        width: 108.125rem;
+        font-size: 10rem;
+    }
+
+    #sixthSection .innerContainer .left p {
+        color: #FFF;
+        font-size: 4.8rem;
+    }
+
+    #sixthSection .innerContainer .left .img img:nth-child(1) {
+        width: 43.125rem;
+        height: 13.75rem;
+    }
+
+    #sixthSection .innerContainer .left .img img:nth-child(2) {
+        width: 44.625rem;
+        height: 13.75rem;
+    }
+
+    #sixthSection .innerContainer .right img:nth-child(1) {
+        width: 43.25rem;
+        height: 67rem;
+        left: 16rem;
+        top: 13rem;
+    }
+
+    #sixthSection .innerContainer .right img:nth-child(2) {
+        width: 55rem;
+        height: 86rem;
+        right: .8rem;
+    }
+
+    #sixthSection .innerContainer .right img:nth-child(3) {
+        width: 43.25rem;
+        height: 67rem;
+        right: 17rem;
+        top: 13rem;
+    }
+
+    #videoSection {
+        height: 100rem;
+    }
+
+    #videoSection .innerContainer {
+        height: 95rem;
+        width: 100%;
+    }
+
+    #videoSection .innerContainer svg:nth-child(1) {
+        width: 16.125rem;
+        height: 16.125rem;
+    }
+
+    #videoSection .innerContainer svg:nth-child(2) {
+        width: 12.25rem;
+        height: 12.25rem;
+    }
+
+    #videoSection .innerContainer svg:nth-child(3) {
+        width: 8.125rem;
+        height: 8.125rem;
+    }
+
+    #videoSection .video-player {
+        width: 100%;
+        height: 95rem;
+    }
+
+    #videoSection .video-player iframe {
+        width: 100%;
+        height: 95rem;
+    }
+
+    #videoSection .video-player i {
+        margin-top: 5rem;
+        margin-right: 2rem;
+        font-size: 6.2rem;
+    }
+
+    #feedBack {
+        height: 160rem;
+    }
+
+    #feedBack .innerContainer {
+        width: 105rem;
+        height: 140rem;
+    }
+
+    #feedBack .innerContainer h3 {
+        font-size: 10rem;
+    }
+
+    #feedBack .innerContainer .swiper {
+        width: 105rem;
+        height: 125rem;
+        /* background-color: red; */
+    }
+
+    .swiper .swiper-wrapper .swiper-slide {
+        margin-left: 0rem;
+        margin-right: 0rem;
+        height: 107.75rem;
+        width: 100% !important;
+    }
+    #feedBack .innerContainer .swiper .swiper-wrapper .swiper-slide .content {
+        height: 85rem;
+    }
+    #feedBack .innerContainer .swiper .swiper-wrapper .swiper-slide .content p {
+        font-size: 7.1rem;
+    }
+    #feedBack .innerContainer .swiper .swiper-wrapper .swiper-slide .content .svg {
+        width: 90.5625rem;
+    }
+    #feedBack .innerContainer .swiper .swiper-wrapper .swiper-slide .content .svg svg {
+        width: 8.575rem;
+        height: 8.575rem;
+    }
+    #feedBack .innerContainer .swiper .swiper-wrapper .swiper-slide .content .profile img {
+        border-radius: 7.75rem;
+        width: 15.75rem;
+        height: 15.75rem;
+    }
+    #feedBack .innerContainer .swiper .swiper-wrapper .swiper-slide .content .profile p {
+        font-size: 7rem;
+    }
+    #feedBack .innerContainer .swiper .swiper-wrapper .swiper-slide .line {
+        height: 2.925rem;
+    }
+    .mySwiper .swiper-pagination-bullet {
+        width: 7.25rem;
+        height: 3.625rem;
+    }
+    .mySwiper .swiper-pagination-bullet-active {
+        width: 19.5rem;
+    }
+    #questions .innerContainer h3 {
+        font-size: 8.5rem;
+    }
+    #questions .innerContainer .contents .top .question .head p {
+        font-size: 5rem;
+        text-align: left;
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+    }
+    #questions .innerContainer .contents .top .question .head svg {
+        width: 8.5rem;
+        height: 8.5rem;
+        margin-top: 4rem;
+    }
+    #questions .innerContainer .contents .top .question .line {
+        width: 105rem;
+        height: .8rem;
+    }
+    #questions .innerContainer .contents .top .question .svg svg {
+        width: 185rem;
+        height: 60.2rem;
+    }
+
+    #questions .innerContainer .contents .top .question .svg p {
+        width: 96.625rem;
+        font-size: 3.625rem;
+        margin-top: -58rem;
+        left: 8rem;
+    }
+    #questions .innerContainer .contents .bottom>svg {
+        display: none;
+    }
+    #questions .innerContainer .contents .bottom .content {
+        width: 100%;
+        left: 3rem;
+        height: 55.0625rem;
+        margin-top: -3rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        position: static;
+        background: #FF4300;
+    }
+    #questions .innerContainer .contents .bottom .content .left h3 {
+        font-size: 8.5rem;
+    }
+    #questions .innerContainer .contents .bottom .content .left p {
+        width: 100%;
+        font-size: 4.8rem;
+    }
+    #questions .innerContainer .contents .bottom .content .right svg {
+        width: 50.78125rem;
+        height: 12.125rem;
+        flex-shrink: 0;
+    }
+    #questions .innerContainer .contents .bottom .content .right p {
+        font-size: 4.5rem;
+        margin-top: -9.8rem;
+        margin-left: 4.6rem;
+    }
+    #footer {
+        height: 95.6875rem;
+    }
+    #footer .innerContainer {
+        width: 105rem;
+        height: 85rem;
+    }
+    #footer .innerContainer h3 {
+        font-size: 10rem;
+    }
+    #footer .innerContainer>p {
+        width: 98.75rem;
+        font-size: 4.25rem;
+    }
+    #footer .innerContainer .icons svg {
+        width: 8.1875rem;
+        height: 8.1875rem;
+        cursor: pointer;
+    }
+
+}
